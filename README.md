@@ -26,10 +26,6 @@ ListWise é uma aplicação simples que permite aos usuários criar listas de co
 
 Se você deseja contribuir para o projeto ListWise, sinta-se à vontade para criar um fork do repositório, fazer melhorias e enviar um pull request. Estamos abertos a sugestões e colaborações para tornar o aplicativo ainda melhor.
 
-## Agradecimentos
-
-Agradecemos por usar o ListWise. Esperamos que este aplicativo ajude você a planejar suas compras com mais eficiência e a economizar tempo e dinheiro.
-
 ## Licença
 
 Este projeto é distribuído sob a [Licença MIT](LICENSE).
